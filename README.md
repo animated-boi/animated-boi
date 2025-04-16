@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Animesh Chaudhary
 
 # 💫 About Me:
 🛠️ I’m currently working on:<br>Building scalable, AI-powered cloud applications & pixel-perfect UI/UX prototypes.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects in AI, ML, Cloud, and Frontend Dev – especially impactful ones!<br><br>💡 I’m looking for help with:<br>Optimizing multi-model deployment pipelines & improving component-driven UI design systems.<br><br>🌱 I’m currently learning:<br>Next.js 14, Temporal Fusion Transformers (TFT), and human-centered UX research techniques.<br><br>💬 Ask me about:<br>AI infra, design systems, REST/FAST APIs, real-time data visualization, and portfolio storytelling!<br><br>⚡ Fun fact:<br>I once went 4 days on a road trip with zero sleep... and shipped 2 working UIs on the way.
